@@ -1,0 +1,36 @@
+body{
+    background-color: white;
+}
+.grp1{
+   text-align: center;
+
+}
+.grp2{
+    text-align: center;
+}
+.grp3{
+position: relative;
+        left: 70px;
+        width: 300px;
+        border: 3px solid #090908;
+        padding: 20px;
+         background-color: rgb(224, 226, 228);
+      
+}
+
+.hero{
+    display: flex;
+}
+.grp4{
+    position: relative;
+        top: 20px;
+        width: 300px;
+        border: 3px solid #090908;
+        padding: 20px;
+        background-color: rgb(222, 225, 227);
+}
+.grp5{
+position: absolute;
+bottom:10%;
+left: 30%;
+}
